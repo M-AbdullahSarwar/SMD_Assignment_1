@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Assignment1</string>
+    <string name="enter_your_name">First Name</string>
+    <string name="second_name">Second Name</string>
+    <string name="email_id">Email Id</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="submit">Sign In</string>
+    <string name="login">Login</string>
+    <string name="already_have_an_account">Already have an Account?</string>
+    <string name="logout">Logout</string>
+    <string name="gui_demo_21l_5475">GUI Demo (21L-5475)</string>
+    <string name="one">One</string>
+    <string name="two">Two</string>
+    <string name="three">Three</string>
+    <string name="instagram_page">Instagram Page</string>
+    <string name="exit">Exit</string>
+</resources>

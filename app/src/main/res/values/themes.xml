@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Assignment1" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">#000000</item>
+    </style>
+    <style name="MyRadioButton" parent="Theme.AppCompat.Light">
+        <item name="colorControlNormal">#6C6868</item>
+        <item name="colorControlActivated">#BA3252</item>
+    </style>
+
+    <style name="Theme.Assignment1" parent="Base.Theme.Assignment1" />
+</resources>
